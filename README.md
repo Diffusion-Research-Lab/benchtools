@@ -5,7 +5,7 @@ BenchTools provides small, reusable utilities for machine-learning benchmarks: Y
 ## Installation
 
 ```bash
-pip install "benchtools @ git+ssh://git@github.com/Diffusion-Research-Lab/benchtools.git"
+pip install "benchtools @ git+https://github.com/Diffusion-Research-Lab/benchtools.git"
 ```
 
 For development:
